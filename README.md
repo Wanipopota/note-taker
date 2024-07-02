@@ -27,7 +27,11 @@
   N/A
   
   ## Tests
-  Later
+  (https://github.com/Wanipopota/note-taker/assets/163935215/169ff615-e192-442d-be32-72334ef74a48)
+
+![Screenshot 2024-07-01 214518](https://github.com/Wanipopota/note-taker/assets/163935215/80087cf1-865f-429a-b357-ebf697260343)
+![Screenshot 2024-07-01 214508](https://github.com/Wanipopota/note-taker/assets/163935215/9ceb25fa-4031-4d20-9d9e-f55c865ea94a)
+
   
   ## Questions
   For questions about the project, please contact [@Wanipopota](https://github.com/Wanipopota) or wanipopota@gmail.com.
